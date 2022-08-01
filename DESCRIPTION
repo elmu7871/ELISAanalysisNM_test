@@ -1,0 +1,12 @@
+Package: ELISAanalysisNM
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    c(person("Elisabeth", "Murphy", email = "elisabeth.murphy@cuanschutz.edu", role = c("aut", "cre")))
+Description: Tools for ELISA analysis in the NM lab. You can use this package to 
+    analyze aldosterone, cortisol, and corticosterone ELISAs. It contains tools 
+    for importing ELISA data, calculating concentrations, and plotting results.
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
