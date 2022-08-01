@@ -2,7 +2,7 @@ Package: ELISAanalysisNM
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    c(person("Elisabeth", "Murphy", email = "elisabeth.murphy@cuanschutz.edu", role = c("aut", "cre")))
+    c(person("Elisabeth", "Murphy", email = "elisabeth.murphy@cuanschutz.edu", role = c("aut", "cre", "msd")), person("Kathryn", "Walters", email = "Kathryn.walters@cuanschutz.edu", role = c("aut", "drt")), person("Marcin", "Sajek", email = "marcin.sajek@cuanschutz.edu", role = c("aut", "tcd")), person("Amber", "Baldwin", email = "amber.baldwin@cuanschutz.edu", role = "sgd"), person("Kezia", "Dobson", email = "kezia.dobson@cuanschutz.edu", role = "sht"), person("Neelanjan", "Mukherjee", email = "neelanjan.mukherjee@cuanschutz.edu", role = c("aut", "cph", "ppt")))
 Description: Tools for ELISA analysis in the NM lab. You can use this package to 
     analyze aldosterone, cortisol, and corticosterone ELISAs. It contains tools 
     for importing ELISA data, calculating concentrations, and plotting results.
