@@ -1,2 +1,2 @@
-# ELISAanalysisNM_test
+# ELISAanalysisNM
 Test-creating ELISA analysis package 
